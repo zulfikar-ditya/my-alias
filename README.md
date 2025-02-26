@@ -1,1 +1,1 @@
-# my-alias
+# my-alias for my ubuntu/wsl
